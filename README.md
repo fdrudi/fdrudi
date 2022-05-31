@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**fdrudi/fdrudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @fdrudi (Francesco)
+- 🖥 I’m currently student at 42Roma Luiss
+- ⌨️ I’m currently learning C, C++, Unix, Virtual machines
+- 📫 Reach me -> fdrudi@student.42roma.it
 
-Here are some ideas to get you started:
+<div align="center">
+			
+<b>My 42 stats</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/fdrudi"><img src="https://badge42.vercel.app/api/v2/cl3ty0rwo013609l8uv1xpxyd/stats?cursusId=21&coalitionId=124" alt="fdrudi's 42 stats" /></a>
+</br>
+<b>My GitHub stats</b>
+
+<a href="https://github.com/fdrudi"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/fdrudi?cardType=level&theme=tokyonight" width="395" height="200"></a> 
+<a href="https://github.com/fdrudi?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdrudi&layout=compact&theme=tokyonight" width="440" height="200"></a>
+
+</div>
+</br>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=fdrudi&&style=flat-square)
