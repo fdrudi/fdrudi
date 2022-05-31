@@ -1,8 +1,8 @@
 # Hi there 👋
 
 - 👋 Hi, I’m @fdrudi (Francesco)
-- 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Virtual machines
+- 🖥 I’m currently a student at 42Roma Luiss
+- ⌨️ I’m currently learning C, C++, Python, Unix, Virtual machines
 - 📫 Reach me -> fdrudi@student.42roma.it
 
 <div align="center">
